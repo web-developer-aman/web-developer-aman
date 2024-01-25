@@ -4,7 +4,7 @@
 
 A dedicated web developer who finds joy in turning ideas into digital reality. I love coding and take pride in creating modern and good-looking websites and web applications and solving web-related bugs. 
 
-🌐 **Creative Design**
+🌐 **Creative Design**  
 In addition to my coding skills, I have a keen eye for creative and modern design. I believe in the power of aesthetics to enhance user experiences. When working on projects, I strive to align functionality with visually appealing and user-friendly designs.
 
 🛠️ **Services I Offer:**  
@@ -18,7 +18,7 @@ In addition to my coding skills, I have a keen eye for creative and modern desig
 ✅ Figma To WordPress Design  
 ✅ Problem Solving and Debugging
 
-🔧 **Problem Solver**
+🔧 **Problem Solver**  
 I see web development as a series of problems waiting to be solved. Whether it's optimizing performance, streamlining workflows, or implementing innovative features, I approach each challenge with a problem-solving mindset and a passion for crafting effective solutions.
 
 💡 **Problems I Solve:**  
