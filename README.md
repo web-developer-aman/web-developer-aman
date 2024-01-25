@@ -66,9 +66,5 @@ Explore my latest Laravel application, [Cowriters](https://softaweb.com/cowriter
   </a>
 </div>
 
-![GitHub metrics](https://metrics.lecoq.io/web-developer-aman)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=web-developer-aman)  
-
 
 
