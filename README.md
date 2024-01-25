@@ -1,6 +1,6 @@
+![Web Developer | Specializing in PHP-Laravel, WordPress and React](https://softaweb.com/wp-content/uploads/2024/01/Aman_Banner.png)
 ### 👋 Hi, I'm Aman
 #### Web Developer | Specializing in PHP-Laravel, WordPress and React
-![Web Developer | Specializing in PHP-Laravel, WordPress and React](https://softaweb.com/wp-content/uploads/2024/01/Aman_Banner.png)
 
 A dedicated web developer who finds joy in turning ideas into digital reality. I love coding and take pride in creating modern and good-looking websites and web applications and solving web-related bugs. 
 
