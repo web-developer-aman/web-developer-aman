@@ -7,9 +7,8 @@ A dedicated web developer who finds joy in turning ideas into digital reality. I
 🌐 **Creative Design**
 In addition to my coding skills, I have a keen eye for creative and modern design. I believe in the power of aesthetics to enhance user experiences. When working on projects, I strive to align functionality with visually appealing and user-friendly designs.
 
-🛠️ **Services I Offer:**
+🛠️ **Services I Offer:** 
 ✅ Fully Responsive Website Design
-
 ✅ Custom Laravel Web Application Development
 ✅ WordPress Website Creation
 ✅ E-commerce Website Creation
