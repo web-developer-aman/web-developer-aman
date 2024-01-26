@@ -2,7 +2,7 @@
 ### 👋 Hi, I'm Aman
 #### Web Developer | Specializing in PHP-Laravel, WordPress and React
 
-A dedicated web developer who finds joy in turning ideas into digital reality. I love coding and take pride in creating modern and good-looking websites and web applications and solving web-related bugs. 
+An experienced web developer is passionate about transforming ideas into a compelling online presence. I love coding and take pride in creating modern and good-looking websites and web applications and solving web-related bugs. 
 
 🌐 **Creative Design**  
 In addition to my coding skills, I have a keen eye for creative and modern design. I believe in the power of aesthetics to enhance user experiences. When working on projects, I strive to align functionality with visually appealing and user-friendly designs.
