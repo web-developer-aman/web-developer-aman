@@ -2,6 +2,19 @@
 ### 👋 Hi, I'm Aman
 #### Web Developer | Specializing in PHP-Laravel, WordPress and React
 
+🚀 **Skills:**
+![WordPress](https://img.shields.io/badge/WordPress-00749C?style=flat&logo=wordpress&logoColor=white)
+![PHP-Laravel](https://img.shields.io/badge/PHP%20Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-34B5E5?style=flat&logo=elementor&logoColor=white)
+![Divi](https://img.shields.io/badge/Divi-21759B?style=flat&logo=divi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+
 An experienced web developer is passionate about transforming ideas into a compelling online presence. I love coding, creating modern responsive and user-friendly websites and web applications, and solving web-related bugs. I'm always eager to learn and stay updated with the latest trends in web development.
 
 
@@ -40,16 +53,7 @@ Explore my latest Laravel application, [Cowriters](https://softaweb.com/cowriter
 [View Cowriters on Codester](https://www.codester.com/items/43291/cowriters-sell-writing-services-online?ref=Aman1180)
 
 
-🚀 **Skills:**
-![WordPress](https://img.shields.io/badge/WordPress-00749C?style=flat&logo=wordpress&logoColor=white)
-![PHP Laravel](https://img.shields.io/badge/PHP%20Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-34B5E5?style=flat&logo=elementor&logoColor=white)
-![Divi](https://img.shields.io/badge/Divi-21759B?style=flat&logo=divi&logoColor=white)
+
 
 
 🏡💻 I’m currently working on Fiverr and Upwork  
