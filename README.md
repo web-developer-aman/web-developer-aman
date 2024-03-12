@@ -57,16 +57,12 @@ Explore my latest Laravel application, [Cowriters](https://softaweb.com/cowriter
 
 📫 Interested in collaborating or have a project in mind? Let's connect and turn your ideas into reality! 💻🚀
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/web-developer-aman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aman-uddin-aa6081279/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100012532065639)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://softaweb.com)  
+## 🌐Socials and website
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012532065639) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-uddin-aa6081279) [![Website](https://img.shields.io/badge/Website-softaweb.com-green)](https://softaweb.com)
 
+## 📊GitHub Stats :
 <div>
-  <a href="https://github.com/web-developer-aman">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-developer-aman" />
-  </a>
-  <a href="https://github.com/web-developer-aman">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=web-developer-aman&show_icons=true&count_private=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-developer-aman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="web-developer-aman's Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=web-developer-aman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="web-developer-aman's Stats" width="49%"/>
 </div>
-
-
 
