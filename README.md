@@ -1,4 +1,4 @@
-![Web Developer | Specializing in PHP-Laravel, WordPress and React](https://softaweb.com/wp-content/uploads/2025/08/Aman_Banner_2.jpg)
+![Web Developer | Specializing in PHP-Laravel, WordPress and React](https://softaweb.com/wp-content/uploads/2025/08/aman_banner_2.jpg)
 ### 👋 Hi, I'm Aman
 #### Web Developer | Specializing in PHP-Laravel, WordPress and React
 
