@@ -1,4 +1,4 @@
-![Web Developer | Specializing in PHP-Laravel, WordPress and React](assets/aman_banner_2.jpg)
+![Web Developer | Specializing in PHP-Laravel, WordPress and React](https://github.com/web-developer-aman/web-developer-aman/blob/main/aman_banner_2.jpg?raw=true)
 ### 👋 Hi, I'm Aman
 #### Web Developer | Specializing in PHP-Laravel, WordPress and React
 
